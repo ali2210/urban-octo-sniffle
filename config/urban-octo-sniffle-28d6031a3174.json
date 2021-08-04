@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "urban-octo-sniffle",
+  "private_key_id": "28d6031a3174800341dbb2690d110e1b76f7b4ca",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDAbbk44SUWv1X4\nB9shNNMuPHjD3oHZqhJKdHwKY2NoHhHGglhlIVExtwvS1LcuuK+bAtM6L0kY8vxQ\ntBaI3hrv4EbQtKyqIvx0oQESOUtWmul/JDvr6Df7xCDVzTtRXRtNjeuIOS1DODNf\n1uGTmKrXgJPMv0+3qBhuFgsGeCHlPmYQlwDLPVr/Zl3Klbn20Efrkb7+Z4ojri1P\ncgP7UaXMVf1VYg52bk6fh6ca0XS1uDaArcZ7ydMWwY4RgjM39S9QOPVPC82P6MoP\njNqat/cfbayoeQxu9jdPA4o0Xpirx8xA6VwtdXkPSEa/Lo4HdjBLEriwwGUffDzA\nm98k/XIHAgMBAAECggEABaXSx2AYShQgjlCQtmdKAXPl6X3I2t4aflPv5hAntUEY\nrXZa6NDzBJ4GO1Bh9f2WrdqF35HOt+w9ypKWjLrUGJFBEtQSs0Wmmje1g9bppqeS\nTdh+57wflISboBrPcGJmsD6HmK5w7SWjoF76rO3QqdWMwPgme1H0MZr1BOIWwJco\nr3YViL/dju0MgMWrD/D8WtkJgdXXW5xQsNyHGk3DNpC6GwYZMybJxIJ7mUu1HspQ\neiSqjeT9UYD57C66E5r+wvdZQguNvYzqWpTR5lbpuLZc9jt3Rqs6qhlWg+fBZEiU\np6IiIY+5yElY9kl3D413jiCCT/QDrdr7qH5JN9RrDQKBgQDvw5tnA1vQHm5SKqql\n2nww5FLtxKAAOwddsM+2CYBvg4k7212F9P5UEe0ohl7emn/ysoLL2cwTzMsUt1CT\nnxh9T748TJGurdjaMefxhQIashyXzNQHLQPmPMWpAl0hFThP2mCf0vf2Rb+VkAbu\nM4LqSWvw4uCSJHoQxY9zi45NpQKBgQDNdYokN5/BNSJxuqWPiaf2164IrMo9yY1I\ntW4SNZQN+xUzb3n0vdy5f6mE7mBMLLrbmdgakQQsfaEbK2R/AyAfm3LoNFg2Buha\n8A3a47F1/z1LWI9TXSm0YTsRzsAliFLOBfA+waeWnbrVkQ1+BUG3UhilzfbDwkpO\nHx+fsF/JOwKBgBD+VzRc65P7pCwUtBWfP7AjbrFFf2WkyWfdkUtArya4NvDUInPN\nIn2I67s0kuLKJoloF5clL66zlC06tO5Rl2XCUiRp9OVhkv4cDWlz2OtVdmtX7Cs6\nCI23/vZ0oW8n1t7qBnEtfb+pv+N02tjlM8ExRQJEwk/5X+FybzFsUcC1AoGBAMpi\nOc0rLaZ33JICtQsLIfS4x6mr6xup6g3xCZfORyTuaxfbe1plm4LuCeHznc/rT7T5\nejHRHzdkGMpWmAu03HPGAA5TYYD2lPLe/AbduvTsk0gg2C3Z2zbff/wumH9gJZDj\nsJ9gyuBGRsAQviWgr/cQW08X7zctr1v8tH3skq35AoGBAIR1bZfite+23YEL8DLq\nrwNxekrvwrwQVl+saMNfM8TPsHn+VRD53y2F1Fuq7BfJyfYhaH81mC3C406VTsAd\n+Fag/MBHesIXeOP6HQKCx6juvrmbvgo8qiM7j3209IK7ao2mxthUcr4eiUx3xO+c\nEmgRKshdHuXCdn8kcAG26Y2b\n-----END PRIVATE KEY-----\n",
+  "client_email": "octo-sniff@urban-octo-sniffle.iam.gserviceaccount.com",
+  "client_id": "105023921799463455159",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/octo-sniff%40urban-octo-sniffle.iam.gserviceaccount.com"
+}
